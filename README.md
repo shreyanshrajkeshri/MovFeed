@@ -1,7 +1,7 @@
 # MovFeed
 This project is developed on Swift UI.
 
-![](Image/Home.png)
-![](Image/Details.png)
-![](Image/Profile.png)
+
+<img src ="Image/Home.png" width="200" height="400"> <img src ="Image/Details.png" width="200" height="400"> <img src ="Image/Profile.png" width="200" height="400">
+
 
