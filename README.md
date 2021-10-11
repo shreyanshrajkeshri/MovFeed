@@ -1,4 +1,4 @@
-# MovFeed
+# MovFeed : A Movie FeedBack
 This project is developed on Swift UI.
 
 
